@@ -1,0 +1,292 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: StringTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: StringTable
+  m_TableCollectionNameGuidString: 0aac7a9fb7bdca74994506b3c550a33c
+  m_Entries:
+  - m_Id: 57408658509824
+    m_Key: left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57424487813120
+    m_Key: right
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57436278001664
+    m_Key: up
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57463838773248
+    m_Key: down
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57528301031424
+    m_Key: Jump
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57552741240832
+    m_Key: Run
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2608531022831616
+    m_Key: Save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3021214275768320
+    m_Key: DisplaySetting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3021244936130560
+    m_Key: SoundSetting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3021268382289920
+    m_Key: ControlSetting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3021292247879680
+    m_Key: KeyBindingSetting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3284813250465792
+    m_Key: Master
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3284818627563520
+    m_Key: Bgm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3284820330450944
+    m_Key: Effects
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3742342787010560
+    m_Key: language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3766891301736448
+    m_Key: MouseSensitivity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4407964190400512
+    m_Key: isFullScreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4771357056471040
+    m_Key: DisplayQuality
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4773595137085440
+    m_Key: Low
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4773599570464768
+    m_Key: Medium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4773601369821184
+    m_Key: High
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4773602812661760
+    m_Key: Best
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5147620527857664
+    m_Key: MyResolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6798453531238400
+    m_Key: StartGame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6798569826705408
+    m_Key: EndGame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6798667897921536
+    m_Key: Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6799620281753600
+    m_Key: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9055382419968000
+    m_Key: QuitGameYesNoPopup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9056249185472512
+    m_Key: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9056283079643136
+    m_Key: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11593215986798592
+    m_Key: CreateRoom
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11749246171779072
+    m_Key: InGameStatus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11749403319767040
+    m_Key: WaitingStatus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12715041891573760
+    m_Key: RoomName
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12715105858904064
+    m_Key: UsePassword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12715178273562624
+    m_Key: Password
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12715474999599104
+    m_Key: Close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12723814437773312
+    m_Key: InputRoomNamePopup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12724950053969920
+    m_Key: InputPasswordPopup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14123122584215552
+    m_Key: EnterPasswordPopup
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14123405926227968
+    m_Key: Submit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14161313311776768
+    m_Key: ReadyButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14588726817755136
+    m_Key: WrongPassword
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14871541980356608
+    m_Key: RoomIsFull
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14871979479818240
+    m_Key: RoomNotExist
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14872091530649600
+    m_Key: CurrentlyPlaying
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66437786016845824
+    m_Key: ChestOpenDialogue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76467623850840064
+    m_Key: SurvivorText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82078301827534848
+    m_Key: Buy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83376611289751552
+    m_Key: Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83837874284433408
+    m_Key: SacrificeChosen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83840255965433856
+    m_Key: PlayerIsSacrifice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83910717852520448
+    m_Key: LobbyButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83910790766301184
+    m_Key: ObserveButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85056251514490880
+    m_Key: AnyKey
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98938263987982336
+    m_Key: Interact
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98938319784808448
+    m_Key: Skill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98938364273790976
+    m_Key: Inventory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98938438626217984
+    m_Key: UseItem
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98938499225522176
+    m_Key: Hotbar0
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98938572277714944
+    m_Key: Hotbar1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98938590854287360
+    m_Key: Hotbar2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98938599603605504
+    m_Key: Hotbar3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98938612119408640
+    m_Key: Hotbar4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98938705472032768
+    m_Key: CancelUI
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99050990127452160
+    m_Key: ResetChanges
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 4841391685637767192
+  references:
+    version: 2
+    RefIds:
+    - rid: 4841391685637767192
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1704348473184

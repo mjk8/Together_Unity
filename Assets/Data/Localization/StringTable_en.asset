@@ -1,0 +1,291 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: StringTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 0aac7a9fb7bdca74994506b3c550a33c, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 3021244936130560
+    m_Localized: Sound
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3021214275768320
+    m_Localized: Display
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57408658509824
+    m_Localized: Left
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57424487813120
+    m_Localized: Right
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57436278001664
+    m_Localized: Forwards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57463838773248
+    m_Localized: Backwards
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57528301031424
+    m_Localized: Jump
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57552741240832
+    m_Localized: Run
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2608531022831616
+    m_Localized: Save
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3021268382289920
+    m_Localized: Control
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3021292247879680
+    m_Localized: Key Binding
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3284813250465792
+    m_Localized: Master Volumn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3284818627563520
+    m_Localized: BGM Volumn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3284820330450944
+    m_Localized: Sound Effect Volumn
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3742342787010560
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3766891301736448
+    m_Localized: Mouse Sensitivity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4407964190400512
+    m_Localized: Full Screen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4771357056471040
+    m_Localized: Graphics Quality
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4773602812661760
+    m_Localized: Best
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4773595137085440
+    m_Localized: Low
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4773599570464768
+    m_Localized: Medium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4773601369821184
+    m_Localized: High
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5147620527857664
+    m_Localized: Resolution
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6798453531238400
+    m_Localized: Start Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6798569826705408
+    m_Localized: End Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6798667897921536
+    m_Localized: Shop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6799620281753600
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9055382419968000
+    m_Localized: Would you like to quit game?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9056249185472512
+    m_Localized: Yes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 9056283079643136
+    m_Localized: No
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11593215986798592
+    m_Localized: Create Room
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11749246171779072
+    m_Localized: In-Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11749403319767040
+    m_Localized: Waiting
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12715041891573760
+    m_Localized: Room Name
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12715105858904064
+    m_Localized: Use Password
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12715178273562624
+    m_Localized: Password
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12715474999599104
+    m_Localized: Close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12723814437773312
+    m_Localized: 'Room Name cannot be empty.
+
+      Enter room name to continue'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12724950053969920
+    m_Localized: 'Password cannot be empty.
+
+      Enter password to continue'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14123122584215552
+    m_Localized: Enter Password
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14123405926227968
+    m_Localized: Submit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14161313311776768
+    m_Localized: Ready
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14588726817755136
+    m_Localized: 'Wrong Password '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14871541980356608
+    m_Localized: Room is already full
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14871979479818240
+    m_Localized: Room does not exist.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14872091530649600
+    m_Localized: This Room is currently ingame.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 66437786016845824
+    m_Localized: To open chest
+    m_Metadata:
+      m_Items: []
+  - m_Id: 76467623850840064
+    m_Localized: Survive
+    m_Metadata:
+      m_Items: []
+  - m_Id: 82078301827534848
+    m_Localized: BUY
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83376611289751552
+    m_Localized: Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83837874284433408
+    m_Localized: The Scarifice  is Chosen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83840255965433856
+    m_Localized: You are the Sacrifice
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83910717852520448
+    m_Localized: Go Back to Lobby
+    m_Metadata:
+      m_Items: []
+  - m_Id: 83910790766301184
+    m_Localized: Spectate Match
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85056251514490880
+    m_Localized: '[Press Any Key to Continue]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98938263987982336
+    m_Localized: Interact
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98938319784808448
+    m_Localized: Skill
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98938364273790976
+    m_Localized: Inventory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98938438626217984
+    m_Localized: Use Item
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98938499225522176
+    m_Localized: Hotbar 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98938572277714944
+    m_Localized: Hotbar 2
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98938590854287360
+    m_Localized: Hotbar 3
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98938599603605504
+    m_Localized: Hotbar 4
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98938612119408640
+    m_Localized: Hotbar 5
+    m_Metadata:
+      m_Items: []
+  - m_Id: 98938705472032768
+    m_Localized: Close Inventory
+    m_Metadata:
+      m_Items: []
+  - m_Id: 99050990127452160
+    m_Localized: Reset Unsaved Changes
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []
